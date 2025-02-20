@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="answerStyle">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="cornerRadius">5dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:backgroundTint">@color/answer_color</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="variantStyle">
+        <item name="android:layout_width">35dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:padding">5dp</item>
+        <item name="cornerRadius">5dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+</resources>

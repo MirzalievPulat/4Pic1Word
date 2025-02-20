@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme._4Pic1Word" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#0398B3</item>
+        <item name="android:navigationBarColor">#0398B3</item>
+    </style>
+
+    <style name="Theme._4Pic1Word" parent="Base.Theme._4Pic1Word" />
+    <style name="roundImage">
+        <item name="cornerSize">10%</item>
+    </style>
+</resources>
